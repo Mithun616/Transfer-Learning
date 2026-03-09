@@ -21,7 +21,6 @@ Train the model using the training dataset and evaluate its performance on the t
 ## PROGRAM
 Include your code here
 ```python
-
 import torch
 import torch.nn as nn
 import torch.optim as optim
